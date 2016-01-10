@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Bike and Sol]]></title>
         <description><![CDATA[Bike and Sol]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/bike-and-sol/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 00:38:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 00:47:59 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/bike-and-sol/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[10 Awesomely Over-the-Top Bike Components]]></title>
+            <description><![CDATA[<article><h1>10 Awesomely Over-the-Top Bike Components</h1><p>To fully understand the appeal of a Crane Bell, you have to hear its sublime sound: Crisp, clear and bright, it's loud enough to clear a path, yet elegant enough to be polite. Flick the spring-loaded lever with your thumb and you hear a sharp tone that lingers for a bit, or use a lighter touch for a quieter ring.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6cc9b4d35626f9d77ee5b201bfb378abac075a45.jpg"></article>]]></description>
+            <link>http://www.bicycling.com/bikes-gear/style/10-awesomely-over-the-top-bike-components</link>
+            <guid isPermaLink="false">c59d9587-f895-4a9a-a274-a266661e2b33</guid>
+            <pubDate>Sun, 10 Jan 2016 00:47:43 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Mission]]></title>
             <description><![CDATA[<article><h1>Mission</h1><p>Providing an environment for students and individuals to learn and experience cycling, skating, biking and other wheeled activities in a student managed business setting, modeled through Christian principles.</p></article>]]></description>
-            <link>undefinedabout-us/index.html</link>
+            <link>https://thegrid.ai/bike-and-sol/about-us/index.html</link>
             <guid isPermaLink="false">8ae00aa9-9052-48dd-9254-9401c72d0e69</guid>
             <pubDate>Sun, 10 Jan 2016 00:38:06 GMT</pubDate>
         </item>
