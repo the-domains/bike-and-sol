@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Bike and Sol]]></title>
+        <description><![CDATA[Bike and Sol]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sun, 10 Jan 2016 00:38:15 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Mission]]></title>
+            <description><![CDATA[<article><h1>Mission</h1><p>Providing an environment for students and individuals to learn and experience cycling, skating, biking and other wheeled activities in a student managed business setting, modeled through Christian principles.</p></article>]]></description>
+            <link>undefinedabout-us/index.html</link>
+            <guid isPermaLink="false">8ae00aa9-9052-48dd-9254-9401c72d0e69</guid>
+            <pubDate>Sun, 10 Jan 2016 00:38:06 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
